@@ -5,8 +5,7 @@ public class variable {
         boolean var3 = true;
         int var4 = 900;
         double var5 = 1.23;
-
-
+        
         System.out.println(var1 + var2 + var3 + var4 + var5);
         System.out.println(var2);
         System.out.println(var3);

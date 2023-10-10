@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Input1",
+      "request": "launch",
+      "mainClass": "First_Lecture.Input1",
+      "projectName": "Java-Learning_6ad8ff0f"
+    },
+    {
+      "type": "java",
+      "name": "MyFirst",
+      "request": "launch",
+      "mainClass": "First_Lecture.MyFirst",
+      "projectName": "Java-Learning_6ad8ff0f"
+    },
+    {
+      "type": "java",
       "name": "operations",
       "request": "launch",
       "mainClass": "operations",
